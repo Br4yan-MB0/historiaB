@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-import '../../styles/marcos.css';
+//import '../../styles/marcos.css';
 
 export default function Marcos() {
   return (

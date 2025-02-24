@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-import '../../styles/exodo.css';
+//import '../../styles/exodo.css';
 
 export default function Exodo() {
   return (

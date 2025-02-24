@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-import '../../styles/genesis.css';
+//import '../../styles/genesis.css';
 
 export default function Genesis() {
   return (
