@@ -1,11 +1,11 @@
 import Layout from '../../components/Layout';
 
-export default function Jonas() {
+export default function Reis() {
   return (
     <Layout>
       <div className="container">
-        <h1>📖 Jonas</h1>
-        <p>Jonas foi engolido por um grande peixe...</p>
+        <h1>📖 2 Reis</h1>
+        <p>O Senhor levou Elias ao céu num redemoinho...</p>
       </div>
     </Layout>
   );

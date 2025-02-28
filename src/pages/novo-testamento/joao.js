@@ -1,12 +1,12 @@
 import Layout from '../../components/Layout';
-//import '../../styles/.css';
+//import '../../styles/joao.css'
 
-export default function Genesis() {
+export default function Joao() {
   return (
     <Layout>
       <div className="container">
-        <h1>📖 Gênesis</h1>
-        <p>No princípio, Deus criou os céus e a terra...</p>
+        <h1>📖 João</h1>
+        <p>No princípio era o Verbo, e o Verbo estava com Deus...</p>
       </div>
     </Layout>
   );

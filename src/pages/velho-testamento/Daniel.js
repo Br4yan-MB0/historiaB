@@ -1,12 +1,11 @@
 import Layout from '../../components/Layout';
-//import '../../styles/genesis.css';
 
-export default function Genesis() {
+export default function Daniel() {
   return (
     <Layout>
       <div className="container">
-        <h1>📖 Gênesis</h1>
-        <p>No princípio, Deus criou os céus e a terra...</p>
+        <h1>📖 Daniel</h1>
+        <p>Daniel na cova dos leões confiou em Deus...</p>
       </div>
     </Layout>
   );

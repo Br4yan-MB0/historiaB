@@ -1,11 +1,11 @@
 import Layout from '../../components/Layout';
 
-export default function Jonas() {
+export default function Samuel() {
   return (
     <Layout>
       <div className="container">
-        <h1>📖 Jonas</h1>
-        <p>Jonas foi engolido por um grande peixe...</p>
+        <h1>📖 1 Samuel</h1>
+        <p>Samuel servia ao Senhor diante do sacerdote Eli...</p>
       </div>
     </Layout>
   );
