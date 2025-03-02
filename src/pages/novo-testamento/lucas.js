@@ -8,6 +8,9 @@ export default function Lucas() {
         <h1>📖 Lucas</h1>
         <p>O nascimento de Jesus trouxe grande alegria...</p>
       </div>
+      <div>
+        <p></p>
+      </div>
     </Layout>
   );
 }
