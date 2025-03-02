@@ -1,5 +1,5 @@
 import Layout from '../../components/Layout';
-//import styles from '@/styles/1samuel.css';
+import styles from '../../styles/umSamuel.module.css';  // Certifique-se que o caminho está correto
 
 export default function Samuel() {
   return (

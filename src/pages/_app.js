@@ -2,7 +2,6 @@
 import '../styles/genesis.css';
 import '../styles/exodo.css';
 import '../styles/marcos.css';
-import '../styles/matheus.css';
 import '../styles/salmos.css'
 import '../styles/proverbios.css'
 import '../styles/juizes.css'
@@ -11,7 +10,6 @@ import '../styles/jo.css'
 import '../styles/ester.css'
 import '../styles/daniel.css'
 import '../styles/2reis.css'
-import '../styles/1samuel.css'
 import '../styles/lucas.css'
 import '../styles/joao.css'
 

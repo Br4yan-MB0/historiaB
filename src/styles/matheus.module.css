@@ -1,0 +1,56 @@
+/* Estilização geral do container */
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #fffae6; /* Fundo bege claro */
+  border-radius: 10px;
+}
+
+/* Título principal */
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ff9900; /* Laranja vibrante */
+}
+
+/* Subtítulo */
+.subtitle {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Seções do conteúdo */
+.section {
+  background: #ffefd5; /* Fundo pastel */
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos das seções */
+.sectionTitle {
+  color: #1b5e20;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Texto do conteúdo */
+.text {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Ícones e destaques */
+.highlight {
+  font-weight: bold;
+  color: #cc0000;
+}
+
+/* Emojis destacados */
+.emoji {
+  font-size: 1.5rem;
+}
