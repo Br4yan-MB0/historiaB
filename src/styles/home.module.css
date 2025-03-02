@@ -1,0 +1,30 @@
+/* styles/home.module.css */
+
+/* Estilos para os botões */
+.btn {
+    background-color: #ff9800; /* Cor laranja */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fonte infantil */
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #ff5722; /* Cor laranja escuro ao passar o mouse */
+  }
+  
+  /* Estilos para os itens da lista */
+  .listItem {
+    margin: 10px 0;
+  }
+  
+  /* Estilo do container da lista (ul) */
+  .listContainer {
+    list-style-type: none;
+    padding: 0;
+  }
+  
